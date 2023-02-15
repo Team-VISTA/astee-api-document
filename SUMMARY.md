@@ -6,11 +6,11 @@
 
 * [구글 로그인 / 회원가입](accounts/undefined.md)
 
-## components
+## Design System
 
-* [컴포넌트 분석](components/undefined.md)
-* [분석 결과 조회](components/undefined-1.md)
+* [컴포넌트 분석](design-system/undefined.md)
+* [디자인 시스템 조회](design-system/undefined-1.md)
 
-## My Projects
+## My Page
 
-* [내 프로젝트 조회](my-projects/undefined.md)
+* [내 프로젝트 조회](my-page/undefined.md)
